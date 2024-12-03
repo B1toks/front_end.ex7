@@ -1,0 +1,14 @@
+.dog-card {
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+  }
+  
+  .dog-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
