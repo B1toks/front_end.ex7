@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { fetchDogImages } from "./api";
+import { fetchDogImages } from "../api";
 import DogCard from "./DogCard";
 import "./DogGallery.css";
 
